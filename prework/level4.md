@@ -1,38 +1,69 @@
 # Level 4
 
-This Level is a repeat of much of the content from Level 3 but with resources from Team Treehouse instead of Codeschool.
-I recommend working through some of the [projects](projects.html) before working through these videos.
+Most of this level reviews past content using Codeschool.
+Codeschool adds video similar to Team Treehouse (some of the videos can be a bit campy).
 
-## HTML & CSS (Treehouse How to Make a Website) - 5-8 Hours
+> Codeschool assumes that you have a code editor installed.
+For now goto [`atom.io`](http://atom.io) and install Atom editor.
+You can start working in project mode by going to a folder from the terminal and typing `atom .` to open the current folder in Atom editor.
 
-This course of videos and exercises will walk you through creating a website using HTML and CSS.
-By now much of this will feel like review, but this course has some extra knowledge to add to Codecademy or Codeschool materials.
+> Since you've worked on these different skills before, you may want to use the speed option in the video player to work through the courses a bit more quickly.
 
-* http://teamtreehouse.com/library/how-to-make-a-website
+## HTML & CSS - (Codeschool Frontend Foundations) - 2.5-5 Hours
 
-## Javascript (Treehouse JS Basics) - 2-4 Hours
+Now you have a decent amount of HTML and CSS under your belt.
+More practice and a new approach will help you continue on your quest.
 
-This course covers basic variables, logic, and function expressions.
-This will work on review from your work on Codecademy and Codeschool.
+Check out the Frontend Foundations course on Codeschool to continue working on HTML & CSS skills along with learning layout.
+Finish all 5 levels (this requires a subscription).
 
-* http://teamtreehouse.com/library/how-to-make-a-website
+* http://campus.codeschool.com/courses/front-end-foundations
 
-## Javascript (Treehouse jQuery Basics) - 2-5 Hours
+## Javascript - (Codeschool JS Road Trip Part 1) - 1-2 Hours
 
-This course is a bit more hands on in creating a few different widgets using jQuery.
-Similar to the jQuery course on Codeschool, this will give you more practical practice with Javascript, HTML, and CSS.
+Chances are that by now, you are starting to get a hang of JS.
+But, the pattern continues: more practice === more comfort.
+For this part of your prework, work through the Javascript Road Trip Part 1 (does not require a Codeschool subscription):
 
-* http://teamtreehouse.com/library/jquery-basics
+* http://javascript-roadtrip.codeschool.com/
 
-## More Review
+## Javascript - (Codeschool JS Road Trip Part 2) - 1-3 Hours
 
-From here, you are ready to look back over some of the [projects](projects.html).
-If you still have time, look through the [Front End Development Track](https://teamtreehouse.com/tracks/front-end-web-development) from Team Treehouse and see if there are any topics you feel like you need to review.
-At this point, you have made awesome progress to being ready for class.
+Continuing on your journey of Javascript fundamentals, you should start working more with data structures, logic statements, and arrays.
+To do this, finish the Javascript Road Trip Part 2 (requires a Codeschool subscription):
 
-Also, update your issue from Lesson 2 to let me know how far you got in your prework.
+* http://javascript-roadtrip-part2.codeschool.com
 
-## Other Reading
+## Javascript - (Codeschool JS Road Trip Part 3) - 2-3 Hours
 
-For this class, you may be interested in some learning techniques and how things will be formatted.
-If you want to know a bit about how the sausage is made and what is going through my mind when planning classes, read [Making it Stick](http://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013/ref=sr_1_1?ie=UTF8&qid=1444065995&sr=8-1&keywords=making+it+stick).
+Continuing on your journey of Javascript fundamentals, you now should review functions and objects.
+To do this, finish the Javascript Road Trip Part 3 (requires a Codeschool subscription):
+
+* http://javascript-roadtrip-part3.codeschool.com
+
+## Git - (Codeschool Git Real) - 1-3 Hours
+
+So far, you've worked with a bit of `git` using the Git Basics course and the git docs.
+Now you should review some commands with `git` with the Git Real course on Codeschool:
+
+* http://gitreal.codeschool.com/levels/1
+
+This course will review some of the common commands as well as some best practices for working with Git.
+
+## CSS - (Codeschool CSS Cross Country) - 3-5 Hours
+
+So now you've looked at CSS, HTML, and JS fairly in-depth.
+But, there are some quirks with CSS that you might not be fully aware of until you really dig in.
+The Codeschool CSS Cross Country course is a more in-depth look at a few of the most common CSS rules and working with them.
+I think at this point, you know what to do (requires a Codeschool subscription):
+
+* http://cssxcountry.codeschool.com/levels/1
+
+## Javascript - (Codeschool Try jQuery) - 3-6 Hours
+
+jQuery is a popular Javascript library for working with what the user sees and capturing user interactions.
+We will be covering this library much more in depth later in the course, but getting a head start will help you.
+This will also give you more time to get used to Javascript in action.
+You can find the course here (does not require Codeschool subscription):
+
+* http://try.jquery.com/

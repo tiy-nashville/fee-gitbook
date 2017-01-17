@@ -1,11 +1,11 @@
-# OSX and Other Configuration
+# macOS and Other Configuration
 
 There are still a few other tools that we will need to configure so that everyone is on the same page.
 This will help make sure that our system shortcuts are set up so that we can all help each other out.
 
 ## Scrolling
 
-By default, Apple ships OSX setup to use "Natural Scrolling".
+By default, Apple ships macOS setup to use "Natural Scrolling".
 This can feel good on the trackpad, but is a real weird experience on external mice and when jumping between Mac and PC.
 We'll vote on the best fit for the full class and what people are use to and then have one setting across everyone's machine to aid in working together in groups.
 
@@ -32,7 +32,7 @@ We already installed Alfred in our Super Installer, but now we need to open it a
 - Open system preferences and go to "Keyboard and Mouse"
     - Under "Shortcuts" and "Spotlight" change the value of "Show spotlight search" to "ALT+SPACE"
 - Return to Alfred and set the "Alfred Hotkey" to "CMD+SPACE"
-- Next under "Apperance" I reccomend setting the theme to "OSX Yosemite Dark"
+- Next under "Apperance" I reccomend setting the theme to "macOS Yosemite Dark"
 
 ## Goodbye Capslock
 

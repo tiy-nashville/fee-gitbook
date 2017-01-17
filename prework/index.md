@@ -1,24 +1,26 @@
 # Prework
 
-> **IMPORTANT** Do your best not to install any developer tools until the install party unless you are directed to in this gitbook (not the provided materials). The closer your Mac is to being a blank slate (at least when it comes to developer tools), the faster the install party will go.
+> **IMPORTANT** Do your best not to install any developer tools until the install party unless you are directed to in this gitbook (not the provided materials).
+> The closer your Mac is to being a blank slate (at least when it comes to developer tools), the faster the install party will go.
 
 Before we can really get moving, there are some base skills that are needed to keep up with the pace that we have planned for you.
-Levels 1 & 2 should be completed by install day (Oct 4th) and I highly recommend Levels 3 & 4.
+Levels 1 & 2 should be completed by install day and I highly recommend attempting Levels 3 & 4.
 Please [email me](mailto:ryan@theironyard.com) if you have any questions or are having problems completing an assignment and I will be happy to help you.
 
 After completing Level 3, I recommend trying out some of the [projects](projects.html).
 These will test your ability to make changes to existing HTML and CSS pages to complete a client's needs or in some instances, you will create full pages from scratch.
 
-> **NOTE** Level 4 has much of the same content as Level 3 but is courses from Team Treehouse instead of Codeschool.
-My preference between the two sites leans toward Codeschool although I realize that they do not offer a free trial.
-Because of this, if you have an existing membership to Team Treehouse or have a free trial, you may want to try Level 4 before Level 3.
+> **NOTE** Level 4 has much of the same content as Level 3 but is courses from Codeschool instead of Team Treehouse.
+> My preference between the two sites leans toward Treehouse as they have a bit more updated content when compared to Codeschool.
 
 We will start class assuming that everyone has completed these prework assignments, and if you are unable to finish them, you will likely feel like you are far behind.
+If you have any questions about working through the prework let me know via email.
 
 To complete this prework, you will need to sign up for a few accounts:
 
+* [Newline](https://online.theironyard.com/) - The Iron Yard's Online content platform (this will also be used to deliver extra material and assignments during the course): you do not need to purchase any of the paid classes at this time.
 * [Codecademy](https://www.codecademy.com/) - Always Free
-* [Team Treehouse](https://teamtreehouse.com) - 14 Day Trial $25/month after
+* [Team Treehouse](https://teamtreehouse.com) - 14 Day Trial $25/month after (you will only need it for prework and then may want to resubscribe after the course)
 * [Code School](http://codeschool.com/) - $29/month (you will only need it for prework and then may want to resubscribe after the course)
 
 ## How Important is Prework?
@@ -30,7 +32,8 @@ The more practice you get under your fingers before we even start day one: the m
 Don't just take my word for it!
 Here is an article from a TIY alum about their thoughts on Prework: http://jordanscodinglife.blogspot.com/2015/04/the-20-actions-front-end-students.html
 
-Follow the exercises listed on this prework (I've included a lot of the things listed on the above linked list), but that article might give you an idea of what sort of difference prework will make for your experience!
+Follow the exercises listed on this prework (I've included a lot of the things listed on the above linked list),
+but that article might give you an idea of what sort of difference prework will make for your experience!
 
 ## What Now?
 

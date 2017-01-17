@@ -10,18 +10,26 @@ To learn more, work through the [CodeCademy Command Line course](https://www.cod
 
 ## HTML & CSS - 2-3 Hours
 
-In lesson 1 you started workin on the CodeCademy course for HTML & CSS.
+In lesson 1 you started working on the CodeCademy course for HTML & CSS.
 This will continue to be the foundation of your time as a Front End Engineer.
 To continue learning HTML & CSS finish the CodeCademy course for HTML & CSS:
 
 * https://www.codecademy.com/en/skills/make-a-website
 
-## Javascript - 7+ Hours
+## Javascript - 4+ Hours
 
 You have started learning some Javascript and have worked through some of the basics.
-Now you are ready to learn a bit more of the basics by completing the CodeCademy JS course:
+Now you are ready to learn a bit more of the basics by completing the Newline (The Iron Yard's online teaching platform) JS mini-course.
+This will go through syntax and
+
+## Javascript - 7+ Hours
+
+Javascript is an incredibly important part of Front-End Engineering and development.
+Take some time to continue learning and practicing Javascript with the CodeCademy Javascript class.
 
 * https://www.codecademy.com/tracks/javascript
+
+> The first jQuery lesson has a lot of Regular Expressions which will likely seem different to you.
 
 ## Git - 1-2 Hours
 
@@ -38,8 +46,6 @@ Using the free plan on typing.io practice some of the Javascript lessons:
 
 * http://typing.io
 * https://typing.io/lesson/javascript/jquery/traversing.js/1
-
-> The first jQuery lesson has a lot of Regular Expressions which will likely seem different to you.
 
 ## Github - 20 Mins
 
@@ -67,3 +73,11 @@ In your issue, include:
 
 > Notice that Github uses a note taking language called Markdown that compiles into HTML (it's actually the same format I use to make this Gitbook too).
 > You should read up on these two articles from [Team Treehouse](http://blog.teamtreehouse.com/explaining-markdown) and [Github](https://guides.github.com/features/mastering-markdown/) and use some markdown formatting in your issue.
+
+## A Quick Video
+
+In our lives (especially during busy times), we are bombarded with choices that can use a lot of our energy without even knowing it!
+But, we can combat this if we are aware of it.
+Here is a video from TED that talks about the Paradox of Choice and what it means for our lives.
+
+https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice
