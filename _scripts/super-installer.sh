@@ -30,6 +30,7 @@ clis=(
   node
   watchman
   phantomjs
+  yarn
 )
 echo "installing cli tools and languages..."
 brew install ${clis[@]}
@@ -48,7 +49,6 @@ apps=(
   quicklook-json
   spectacle
   dash
-  yarn
 
   #mou
   #github
