@@ -10,4 +10,5 @@ The focus of the install party is to get you comfortable with the shell, make su
 * [Super Install Script](super-installer.html)
 * [SSH Keys](ssh.html)
 * [Atom Configuration](atom.html)
+* [Terminal](terminal.html)
 * [Other](other.html)

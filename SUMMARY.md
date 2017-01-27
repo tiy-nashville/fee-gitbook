@@ -12,4 +12,5 @@
   - [Super Install Script](install-day/super-installer.md)
   - [SSH Keys](install-day/ssh.md)
   - [Atom Configuration](install-day/atom.md)
+  - [Terminal](install-day/terminal.md)
   - [Other](install-day/other.md)

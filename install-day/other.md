@@ -6,8 +6,7 @@ This will help make sure that our system shortcuts are set up so that we can all
 ## Scrolling
 
 By default, Apple ships macOS setup to use "Natural Scrolling".
-This can feel good on the trackpad, but is a real weird experience on external mice and when jumping between Mac and PC.
-We'll vote on the best fit for the full class and what people are use to and then have one setting across everyone's machine to aid in working together in groups.
+This can take a while to get used to but for collaborating and to save time it is best that we all have "Natural Scrolling" enabled in the trackpad settings.
 
 ## Flux
 

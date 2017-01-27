@@ -48,6 +48,7 @@ apps=(
   quicklook-json
   spectacle
   dash
+  yarn
 
   #mou
   #github
@@ -68,6 +69,12 @@ git config --global core.excludesfile ~/.gitignore_global
 # Let's improve the terminal
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
+# Installing Terminal Fonts
+git clone https://github.com/powerline/fonts.git ~/fonts
+sh ~/fonts/install.sh
+
+wget -O ~/.oh-my-zsh/themes/bullet-train.zsh-theme https://raw.githubusercontent.com/caiogondim/bullet-train-oh-my-zsh-theme/master/bullet-train.zsh-theme
+
 mkdir ~/bin
 
 # Node Modules
@@ -82,7 +89,5 @@ node_modules=(
   adonis-cli
 )
 
-npm install ${node_modules[@]}
-
-wget https://gist.githubusercontent.com/rtablada/616652322eb096a0e476/raw/a5e595962a155583ff162a5940b3a65e971bab79/batcharge.py -O ~/bin/batcharge.py
-wget https://gist.githubusercontent.com/rtablada/616652322eb096a0e476/raw/a5e595962a155583ff162a5940b3a65e971bab79/doubleend.zsh-theme -O ~/.oh-my-zsh/themes/doubleend.zsh-theme
+yarn global add ${node_modules[@]}
+echo 'export PATH="$PATH:`yarn global bin`"' >> ~/.zshrc
